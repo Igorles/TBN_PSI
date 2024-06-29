@@ -1,7 +1,7 @@
 % Software package
 
  
-% Title: Three-Branch Neural Network for No-Reference Quality Assessment of Pan-Sharpening Images
+% Title: Three-Branch Neural Network for No-Reference Quality Assessment of Pansharpened Images
 % Authors: Igor Stepien and Mariusz Oszust 
 % istepien@kia.prz.edu.pl, marosz@kia.prz.edu.pl, www.marosz.kia.prz.edu.pl
 % Rzeszow University of Technology  
